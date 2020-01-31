@@ -1,0 +1,26 @@
+{
+  "name": "@tntlike/vue-fullscreen-loading",
+  "version": "1.0.0",
+  "description": "全屏加载插件",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TNtLike/vue-plugins.git"
+  },
+  "keywords": [
+    "vue-loading",
+    "full-screen-loading"
+  ],
+  "author": "TNtLike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TNtLike/vue-plugins/issues"
+  },
+  "homepage": "https://github.com/TNtLike/vue-plugins#readme"
+}
