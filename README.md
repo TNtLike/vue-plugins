@@ -11,7 +11,11 @@
 `Vue.use(FullScreenLoading, { tips: "loading", fontColor: "#ffffff", backgroundColor: "#0B0B1496", fontSize: 18 });`
 
 3.在业务中使用
+
 显示 loading
+
 `this.$fullScreenLoading.show("loading...");`
+
 关闭 loading
+
 `this.$fullScreenLoading.hide();`

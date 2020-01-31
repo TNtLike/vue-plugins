@@ -1,6 +1,6 @@
 {
   "name": "@tntlike/vue-fullscreen-loading",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "全屏加载插件",
   "main": "index.js",
   "directories": {
